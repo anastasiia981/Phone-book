@@ -1,0 +1,80 @@
+
+<data>
+<person id="Ivanova">
+    <Surname>Ivanova</Surname>
+    <Name>Valentina</Name>
+    <Patronymic>Ivanovna</Patronymic>
+    <Phone>+74958545858</Phone>
+    <Note>sekretar</Note>
+</row>
+<person id="Viktorov">
+    <Surname>Viktorov</Surname>
+    <Name>Oleg</Name>
+    <Patronymic>Vasilevich</Patronymic>
+    <Phone>+795647383945</Phone>
+    <Note>nachalnik</Note>
+</row>
+<person id="Prochorov">
+    <Surname>Prochorov</Surname>
+    <Name>Michail</Name>
+    <Patronymic>Petrovich</Patronymic>
+    <Phone>+783030404994</Phone>
+    <Note>stroitel</Note>
+</row>
+<person id="Olegov">
+    <Surname>Olegov</Surname>
+    <Name>Nickolay'</Name>
+    <Patronymic>Ruslanovich</Patronymic>
+    <Phone>+723434565656</Phone>
+    <Note>jurist</Note>
+</row>
+<person id="Drozdov">
+    <Surname>Drozdov</Surname>
+    <Name>Vasiliy</Name>
+    <Patronymic>Nickolaevich</Patronymic>
+    <Phone>+73245456677</Phone>
+    <Note>kapitan polizii</Note>
+</row>
+<person id="Sergeev">
+    <Surname>Sergeev</Surname>
+    <Name>Petr</Name>
+    <Patronymic>Vicktorovich</Patronymic>
+    <Phone>+7987545654</Phone>
+    <Note>znakomiy gaishnick</Note>
+</row>
+<person id="Petrova">
+    <Surname>Petrova</Surname>
+    <Name>Vasilisa</Name>
+    <Patronymic>Romanovna</Patronymic>
+    <Phone>+799676756767</Phone>
+    <Note>podruga</Note>
+</row>
+<person id="Genadieva">
+    <Surname>Genadieva</Surname>
+    <Name>Anastasiia</Name>
+    <Patronymic>Sebastianovna</Patronymic>
+    <Phone>+7965656656</Phone>
+    <Note>kollega</Note>
+</row>
+<person id="Charitonova">
+    <Surname>Charitonova</Surname>
+    <Name>Anastasiia</Name>
+    <Patronymic>Nickolaevna</Patronymic>
+    <Phone>+7966566568798</Phone>
+    <Note>podruga sveta</Note>
+</row>
+<person id="Dubrovina">
+    <Surname>Dubrovina</Surname>
+    <Name>Arina</Name>
+    <Patronymic>Grigorievna</Patronymic>
+    <Phone>+7276766787</Phone>
+    <Note>sister</Note>
+</row>
+<person id="Vasilkova">
+    <Surname>Vasilkova</Surname>
+    <Name>Uliana</Name>
+    <Patronymic>Petrovna</Patronymic>
+    <Phone>+79992223344</Phone>
+    <Note>direktor school</Note>
+</row>
+</data>
