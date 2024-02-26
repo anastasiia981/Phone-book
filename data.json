@@ -1,0 +1,74 @@
+{
+    "Ivanova": {
+      "Surname": "Ivanova",
+      "Name": "Valentina",
+      "Patronymic": "Ivanovna",
+      "Phone": "+74958545858",
+      "Note": "sekretar"
+    },
+    "Victorov": {
+      "Surname": "Victorov",
+      "Name": "Oleg",
+      "Patronymic": "Vasilevich",
+      "Phone": "+795647383945",
+      "Note": "nachalnik"
+    },
+    "Prohorov": {
+      "Surname": "Prohorov",
+      "Name": "Michail",
+      "Patronymic": "Petrovich",
+      "Phone": "+783030404994",
+      "Note": "stroitel"
+    },
+    "Olegov": {
+      "Surname": "Olegov",
+      "Name": "Nickolay",
+      "Patronymic": "Ruslanovich",
+      "Phone": "+723434565656",
+      "Note": "jurist"
+    },
+    "Drozdov": {
+      "Surname": "Drozdov",
+      "Name": "Vasiliy",
+      "Patronymic": "Nickolaevich",
+      "Phone": "+73245456677",
+      "Note": "kapitan police"
+    },
+    "Sergeev": {
+      "Surname": "Sergeev",
+      "Name": "Petr",
+      "Patronymic": "Viktorovich",
+      "Phone": "+7987545654",
+      "Note": "znakomiy gaishnik"
+    },
+    "Petrova": {
+      "Surname": "Petrova",
+      "Name": "Vasilisa",
+      "Patronymic": "Romanovna",
+      "Phone": "+799676756767",
+      "Note": "podruga"
+    },
+    "Gennadieva": {
+      "Surname": "Gennadieva",
+      "Name": "Anastasiia",
+      "Patronymic": "Sebastianovna",
+      "Phone": "+7965656656",
+      "Note": "podruga Sveta"
+    },
+    "Dubrovina": {
+      "Surname": "Dubrovina",
+      "Name": "Irina",
+      "Patronymic": "Grigorievna",
+      "Phone": "+7276766787",
+      "Note": "sister"
+    },
+    "Vasilkova": {
+      "Surname": "Vasilkova",
+      "Name": "Uliana",
+      "Patronymic": "Petrovna",
+      "Phone": "+79992223344",
+      "Note": "director shkool"
+    }
+    
+    }
+  
